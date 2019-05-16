@@ -1,0 +1,1 @@
+Native JS, clear HTML
